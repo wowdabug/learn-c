@@ -1,6 +1,7 @@
 // here are some different include statements
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdbool.h>
 
 #include "a.h"
 #include "nested/b.h"
